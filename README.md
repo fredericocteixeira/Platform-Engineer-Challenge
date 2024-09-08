@@ -3,7 +3,7 @@ My solution to the given Admin Recruitment Challenge (https://github.com/bdu-xpa
 
 # Apache Tomcat container deployment with Oracle Linux image
 
-This repository contains a Dockerfile to create a Docker image based on Oracle Linux 9. The image includes Java 17, Java 22, and Apache Tomcat 10.1.28, along with SSL configuration.
+This repository contains a Dockerfile to create a Docker image based on Oracle Linux 9. The image includes Java 22, and Apache Tomcat 10.1.28, along with SSL configuration.
 
 ## Prerequisites
 
